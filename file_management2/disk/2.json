@@ -1,0 +1,12 @@
+{
+   "fcb0" : {
+      "create_time" : "2022-04-14 22:21:41",
+      "direct_block" : [ 3, 0, 0, 0 ],
+      "filename" : "virtual_memory",
+      "filesize" : 9,
+      "indirect_block" : [ 0, 0, 0, 0 ],
+      "isdir" : 0,
+      "update_time" : "2022-04-14 22:21:41"
+   },
+   "occupy" : 1
+}

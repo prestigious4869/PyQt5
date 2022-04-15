@@ -1,0 +1,4 @@
+﻿  virtual_memory.cpp
+G:\code\file_management2\virtual_memory.cpp(11,20): warning C4018: “>”: 有符号/无符号不匹配
+G:\code\file_management2\virtual_memory.cpp(22,27): warning C4018: “<”: 有符号/无符号不匹配
+  file_management2.vcxproj -> G:\code\file_management2\Debug\file_management2.exe

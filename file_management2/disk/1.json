@@ -1,0 +1,12 @@
+{
+   "fcb0" : {
+      "create_time" : "2022-04-14 22:21:41",
+      "direct_block" : [ 2, 0, 0, 0 ],
+      "filename" : "root",
+      "filesize" : 9,
+      "indirect_block" : [ 0, 0, 0, 0 ],
+      "isdir" : 1,
+      "update_time" : "2022-04-14 22:21:41"
+   },
+   "occupy" : 1
+}
